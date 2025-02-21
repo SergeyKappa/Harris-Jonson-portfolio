@@ -78,7 +78,7 @@
     gap: 20px;
 }
 
-/* @media (width >=800px) {
+@media (width >=800px) {
     .container {
         flex-direction: row-reverse;
         align-items: center;
@@ -98,4 +98,4 @@
             width: 400px;
         }
     }
-} */
+}
